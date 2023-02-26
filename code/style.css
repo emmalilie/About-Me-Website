@@ -1,0 +1,112 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+main {
+  float: center;
+  margin-right: 5%;
+  margin-left: 2%;
+}
+
+body {
+  font-family:'Candara'; san-serif;
+  text-align: center;
+  color: #700070;
+  background-color: #fee1f5;
+}
+
+nav {
+  background-color: purple;
+  text-align: right;
+  font-size: 2.5em;
+  height: 15%;
+  width: 100%;
+  float: right;
+}
+
+
+
+header {
+  color: #610061;
+  font-size: 2.3em;
+}
+
+p {
+  text-align: left;
+  color: #77338a;
+  margin-left: 20%;
+  font-size: 1.5em;
+}
+
+.image1 {
+  max-width:20%;
+  max-height: 20%;
+  border-radius: 10%;
+  border: 3px solid white;
+  float: left;
+  margin: 1em;
+  }
+
+.image2 {
+  max-width: 20%;
+  max-height: 30%;
+  float: left;
+}
+
+.image3 {
+  max-width: 20%;
+  max-height: 30%;
+  border-radius: 10%;
+  border: 3px solid white;
+  margin: 1em;
+  float: left;
+}
+
+.image4 {
+  max-width: 40%;
+  max-height: 30%;
+  border-radius: 10%;
+  border: 3px solid white;
+  margin: 1em;
+  float: left;
+}
+
+.image5 {
+  max-width: 40%;
+  max-height: 30%;
+  border-radius: 10%;
+  border: 3px solid white;
+  margin: 1em;
+  float: left;
+}
+
+.aboutMe {
+  text-align: left;
+  float: left;
+}
+
+.college {
+  text-align: left;
+  float: left;
+}
+
+.keyclub {
+  text-align: left;
+  float: left;
+}
+
+.IDP {
+  text-align: left;
+  float: left;
+}
+
+.spirit {
+  text-align: left;
+  float: left;
+}
